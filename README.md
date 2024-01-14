@@ -1,3 +1,5 @@
+![alt text](./Aws_arch.drawio.png)
+ 
  - For Terraform Installation on Your Computer ---> https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
  - When Repo is cloned on your computer; Open your terminal, go to repo directory, apply the following command
